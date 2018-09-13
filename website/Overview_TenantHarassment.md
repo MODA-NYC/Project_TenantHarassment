@@ -5,8 +5,8 @@ title: Tenant Harassment Prevention
 lead: 
 excerpt:
 current: true
-image:
-image_accessibility:
+image:riskratio.jpg
+image_accessibility:risk ratio graph
 open_datasets:
 github_repo: https://github.com/moda-nyc/Project_TenantHarassment.git
 ---
